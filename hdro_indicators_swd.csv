@@ -1,0 +1,896 @@
+country_code,country_name,indicator_id,indicator_name,index_id,index_name,value,year
+#country+code,#country+name,#indicator+id,#indicator+name,#index+id,#index+name,#indicator+value+num,#date+year
+CHE,Switzerland,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,7.56,1990
+CHE,Switzerland,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,8.28,1991
+CHE,Switzerland,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,7.83,1992
+CHE,Switzerland,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,7.02,1993
+CHE,Switzerland,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,6.23,1994
+CHE,Switzerland,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,5.76,1995
+CHE,Switzerland,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,5.76,1996
+CHE,Switzerland,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,5.67,1997
+CHE,Switzerland,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,5.78,1998
+CHE,Switzerland,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,6.11,1999
+CHE,Switzerland,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,6.17,2000
+CHE,Switzerland,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,5.63,2001
+CHE,Switzerland,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,5.62,2002
+CHE,Switzerland,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,5.43,2003
+CHE,Switzerland,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,5.40,2004
+CHE,Switzerland,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,5.16,2005
+CHE,Switzerland,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,4.67,2006
+CHE,Switzerland,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,4.49,2007
+CHE,Switzerland,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,4.42,2008
+CHE,Switzerland,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,4.28,2009
+CHE,Switzerland,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,4.08,2010
+CHE,Switzerland,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,3.63,2011
+CHE,Switzerland,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,3.54,2012
+CHE,Switzerland,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,3.21,2013
+CHE,Switzerland,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,3.06,2014
+CHE,Switzerland,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,2.85,2015
+CHE,Switzerland,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,2.87,2016
+CHE,Switzerland,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,2.56,2017
+CHE,Switzerland,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,2.40,2018
+CHE,Switzerland,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,2.19,2019
+CHE,Switzerland,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,2.19,2020
+CHE,Switzerland,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,2.21,2021
+CHE,Switzerland,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,2.20,2022
+CHE,Switzerland,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,6.58,1990
+CHE,Switzerland,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,6.79,1991
+CHE,Switzerland,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,6.70,1992
+CHE,Switzerland,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,6.29,1993
+CHE,Switzerland,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,6.10,1994
+CHE,Switzerland,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,6.17,1995
+CHE,Switzerland,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,6.24,1996
+CHE,Switzerland,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,6.07,1997
+CHE,Switzerland,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,6.28,1998
+CHE,Switzerland,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,6.22,1999
+CHE,Switzerland,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,6.07,2000
+CHE,Switzerland,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,6.24,2001
+CHE,Switzerland,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,5.97,2002
+CHE,Switzerland,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,6.09,2003
+CHE,Switzerland,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,6.13,2004
+CHE,Switzerland,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,6.16,2005
+CHE,Switzerland,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,6.07,2006
+CHE,Switzerland,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,5.75,2007
+CHE,Switzerland,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,5.85,2008
+CHE,Switzerland,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,5.63,2009
+CHE,Switzerland,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,5.76,2010
+CHE,Switzerland,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,5.18,2011
+CHE,Switzerland,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,5.28,2012
+CHE,Switzerland,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,5.34,2013
+CHE,Switzerland,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,4.79,2014
+CHE,Switzerland,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,4.68,2015
+CHE,Switzerland,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,4.68,2016
+CHE,Switzerland,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,4.52,2017
+CHE,Switzerland,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,4.33,2018
+CHE,Switzerland,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,4.28,2019
+CHE,Switzerland,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,3.96,2020
+CHE,Switzerland,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,4.12,2021
+CHE,Switzerland,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,4.12,2022
+CHE,Switzerland,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,7.61,2010
+CHE,Switzerland,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,7.51,2011
+CHE,Switzerland,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,7.14,2012
+CHE,Switzerland,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,7.04,2013
+CHE,Switzerland,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,7.39,2014
+CHE,Switzerland,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,7.40,2015
+CHE,Switzerland,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,7.24,2016
+CHE,Switzerland,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,7.49,2017
+CHE,Switzerland,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,7.36,2018
+CHE,Switzerland,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,7.45,2019
+CHE,Switzerland,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,7.81,2020
+CHE,Switzerland,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,7.59,2021
+CHE,Switzerland,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,7.57,2022
+CHE,Switzerland,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,18.71,1990
+CHE,Switzerland,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,15.85,1991
+CHE,Switzerland,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,17.08,1992
+CHE,Switzerland,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,15.48,1993
+CHE,Switzerland,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,16.03,1994
+CHE,Switzerland,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,17.38,1995
+CHE,Switzerland,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,16.96,1996
+CHE,Switzerland,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,15.71,1997
+CHE,Switzerland,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,16.29,1998
+CHE,Switzerland,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,17.48,1999
+CHE,Switzerland,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,16.05,2000
+CHE,Switzerland,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,15.65,2001
+CHE,Switzerland,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,17.79,2002
+CHE,Switzerland,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,15.34,2003
+CHE,Switzerland,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,14.81,2004
+CHE,Switzerland,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,16.39,2005
+CHE,Switzerland,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,16.21,2006
+CHE,Switzerland,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,15.65,2007
+CHE,Switzerland,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,15.88,2008
+CHE,Switzerland,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,16.15,2009
+CHE,Switzerland,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,16.17,2010
+CHE,Switzerland,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,17.02,2011
+CHE,Switzerland,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,16.12,2012
+CHE,Switzerland,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,16.58,2013
+CHE,Switzerland,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,15.56,2014
+CHE,Switzerland,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,14.60,2015
+CHE,Switzerland,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,15.09,2016
+CHE,Switzerland,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,14.87,2017
+CHE,Switzerland,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,14.53,2018
+CHE,Switzerland,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,13.96,2019
+CHE,Switzerland,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,14.94,2020
+CHE,Switzerland,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,15.03,2021
+CHE,Switzerland,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,14.58,2022
+CHE,Switzerland,eys,Expected Years of Schooling (years),HDI,Human Development Index,13.50,1990
+CHE,Switzerland,eys,Expected Years of Schooling (years),HDI,Human Development Index,13.61,1991
+CHE,Switzerland,eys,Expected Years of Schooling (years),HDI,Human Development Index,13.81,1992
+CHE,Switzerland,eys,Expected Years of Schooling (years),HDI,Human Development Index,14.13,1993
+CHE,Switzerland,eys,Expected Years of Schooling (years),HDI,Human Development Index,14.25,1994
+CHE,Switzerland,eys,Expected Years of Schooling (years),HDI,Human Development Index,14.39,1995
+CHE,Switzerland,eys,Expected Years of Schooling (years),HDI,Human Development Index,14.46,1996
+CHE,Switzerland,eys,Expected Years of Schooling (years),HDI,Human Development Index,14.69,1997
+CHE,Switzerland,eys,Expected Years of Schooling (years),HDI,Human Development Index,14.93,1998
+CHE,Switzerland,eys,Expected Years of Schooling (years),HDI,Human Development Index,14.98,1999
+CHE,Switzerland,eys,Expected Years of Schooling (years),HDI,Human Development Index,15.04,2000
+CHE,Switzerland,eys,Expected Years of Schooling (years),HDI,Human Development Index,15.07,2001
+CHE,Switzerland,eys,Expected Years of Schooling (years),HDI,Human Development Index,14.96,2002
+CHE,Switzerland,eys,Expected Years of Schooling (years),HDI,Human Development Index,15.10,2003
+CHE,Switzerland,eys,Expected Years of Schooling (years),HDI,Human Development Index,15.18,2004
+CHE,Switzerland,eys,Expected Years of Schooling (years),HDI,Human Development Index,15.22,2005
+CHE,Switzerland,eys,Expected Years of Schooling (years),HDI,Human Development Index,15.31,2006
+CHE,Switzerland,eys,Expected Years of Schooling (years),HDI,Human Development Index,15.43,2007
+CHE,Switzerland,eys,Expected Years of Schooling (years),HDI,Human Development Index,15.49,2008
+CHE,Switzerland,eys,Expected Years of Schooling (years),HDI,Human Development Index,15.52,2009
+CHE,Switzerland,eys,Expected Years of Schooling (years),HDI,Human Development Index,15.68,2010
+CHE,Switzerland,eys,Expected Years of Schooling (years),HDI,Human Development Index,15.67,2011
+CHE,Switzerland,eys,Expected Years of Schooling (years),HDI,Human Development Index,15.83,2012
+CHE,Switzerland,eys,Expected Years of Schooling (years),HDI,Human Development Index,16.02,2013
+CHE,Switzerland,eys,Expected Years of Schooling (years),HDI,Human Development Index,16.09,2014
+CHE,Switzerland,eys,Expected Years of Schooling (years),HDI,Human Development Index,16.16,2015
+CHE,Switzerland,eys,Expected Years of Schooling (years),HDI,Human Development Index,16.13,2016
+CHE,Switzerland,eys,Expected Years of Schooling (years),HDI,Human Development Index,16.17,2017
+CHE,Switzerland,eys,Expected Years of Schooling (years),HDI,Human Development Index,16.26,2018
+CHE,Switzerland,eys,Expected Years of Schooling (years),HDI,Human Development Index,16.35,2019
+CHE,Switzerland,eys,Expected Years of Schooling (years),HDI,Human Development Index,16.43,2020
+CHE,Switzerland,eys,Expected Years of Schooling (years),HDI,Human Development Index,16.58,2021
+CHE,Switzerland,eys,Expected Years of Schooling (years),HDI,Human Development Index,16.58,2022
+CHE,Switzerland,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,12.91,1990
+CHE,Switzerland,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,13.03,1991
+CHE,Switzerland,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,13.25,1992
+CHE,Switzerland,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,13.45,1993
+CHE,Switzerland,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,13.60,1994
+CHE,Switzerland,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,13.75,1995
+CHE,Switzerland,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,13.83,1996
+CHE,Switzerland,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,14.14,1997
+CHE,Switzerland,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,14.45,1998
+CHE,Switzerland,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,14.54,1999
+CHE,Switzerland,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,14.68,2000
+CHE,Switzerland,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,14.73,2001
+CHE,Switzerland,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,14.62,2002
+CHE,Switzerland,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,14.79,2003
+CHE,Switzerland,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,14.89,2004
+CHE,Switzerland,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,14.97,2005
+CHE,Switzerland,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,15.08,2006
+CHE,Switzerland,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,15.24,2007
+CHE,Switzerland,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,15.34,2008
+CHE,Switzerland,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,15.41,2009
+CHE,Switzerland,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,15.59,2010
+CHE,Switzerland,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,15.56,2011
+CHE,Switzerland,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,15.72,2012
+CHE,Switzerland,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,15.97,2013
+CHE,Switzerland,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,16.04,2014
+CHE,Switzerland,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,16.11,2015
+CHE,Switzerland,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,16.08,2016
+CHE,Switzerland,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,16.15,2017
+CHE,Switzerland,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,16.24,2018
+CHE,Switzerland,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,16.34,2019
+CHE,Switzerland,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,16.46,2020
+CHE,Switzerland,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,16.68,2021
+CHE,Switzerland,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,16.68,2022
+CHE,Switzerland,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,14.07,1990
+CHE,Switzerland,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,14.17,1991
+CHE,Switzerland,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,14.36,1992
+CHE,Switzerland,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,14.80,1993
+CHE,Switzerland,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,14.89,1994
+CHE,Switzerland,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,15.02,1995
+CHE,Switzerland,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,15.08,1996
+CHE,Switzerland,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,15.24,1997
+CHE,Switzerland,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,15.40,1998
+CHE,Switzerland,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,15.41,1999
+CHE,Switzerland,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,15.39,2000
+CHE,Switzerland,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,15.40,2001
+CHE,Switzerland,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,15.30,2002
+CHE,Switzerland,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,15.41,2003
+CHE,Switzerland,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,15.47,2004
+CHE,Switzerland,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,15.48,2005
+CHE,Switzerland,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,15.54,2006
+CHE,Switzerland,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,15.62,2007
+CHE,Switzerland,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,15.63,2008
+CHE,Switzerland,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,15.62,2009
+CHE,Switzerland,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,15.78,2010
+CHE,Switzerland,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,15.79,2011
+CHE,Switzerland,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,15.93,2012
+CHE,Switzerland,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,16.08,2013
+CHE,Switzerland,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,16.14,2014
+CHE,Switzerland,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,16.20,2015
+CHE,Switzerland,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,16.19,2016
+CHE,Switzerland,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,16.19,2017
+CHE,Switzerland,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,16.28,2018
+CHE,Switzerland,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,16.35,2019
+CHE,Switzerland,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,16.41,2020
+CHE,Switzerland,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,16.50,2021
+CHE,Switzerland,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,16.50,2022
+CHE,Switzerland,gdi_group,GDI Group,GDI,Gender Development Index,2.00,2022
+CHE,Switzerland,gii_rank,GII Rank,GII,Gender Inequality Index,3.00,2022
+CHE,Switzerland,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,36692.48,1990
+CHE,Switzerland,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,38050.79,1991
+CHE,Switzerland,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,37754.39,1992
+CHE,Switzerland,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,37844.74,1993
+CHE,Switzerland,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,37763.47,1994
+CHE,Switzerland,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,37962.85,1995
+CHE,Switzerland,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,39701.91,1996
+CHE,Switzerland,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,41244.41,1997
+CHE,Switzerland,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,43136.83,1998
+CHE,Switzerland,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,44106.78,1999
+CHE,Switzerland,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,45851.07,2000
+CHE,Switzerland,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,45857.99,2001
+CHE,Switzerland,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,45389.54,2002
+CHE,Switzerland,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,46810.74,2003
+CHE,Switzerland,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,47701.61,2004
+CHE,Switzerland,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,50106.72,2005
+CHE,Switzerland,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,51435.77,2006
+CHE,Switzerland,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,49607.49,2007
+CHE,Switzerland,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,47594.38,2008
+CHE,Switzerland,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,49962.04,2009
+CHE,Switzerland,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,54549.28,2010
+CHE,Switzerland,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,52640.25,2011
+CHE,Switzerland,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,53505.70,2012
+CHE,Switzerland,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,54068.04,2013
+CHE,Switzerland,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,54123.36,2014
+CHE,Switzerland,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,55141.02,2015
+CHE,Switzerland,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,54985.42,2016
+CHE,Switzerland,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,54694.39,2017
+CHE,Switzerland,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,54859.20,2018
+CHE,Switzerland,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,55444.97,2019
+CHE,Switzerland,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,54274.58,2020
+CHE,Switzerland,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,56295.31,2021
+CHE,Switzerland,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,56927.81,2022
+CHE,Switzerland,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,78911.47,1990
+CHE,Switzerland,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,75072.07,1991
+CHE,Switzerland,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,73718.10,1992
+CHE,Switzerland,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,72960.88,1993
+CHE,Switzerland,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,72640.51,1994
+CHE,Switzerland,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,73176.21,1995
+CHE,Switzerland,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,71667.09,1996
+CHE,Switzerland,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,74228.68,1997
+CHE,Switzerland,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,75933.45,1998
+CHE,Switzerland,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,77229.11,1999
+CHE,Switzerland,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,80739.10,2000
+CHE,Switzerland,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,78718.95,2001
+CHE,Switzerland,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,76637.29,2002
+CHE,Switzerland,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,78916.12,2003
+CHE,Switzerland,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,80048.25,2004
+CHE,Switzerland,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,82829.22,2005
+CHE,Switzerland,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,84820.40,2006
+CHE,Switzerland,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,81903.91,2007
+CHE,Switzerland,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,76571.52,2008
+CHE,Switzerland,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,80067.48,2009
+CHE,Switzerland,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,83186.06,2010
+CHE,Switzerland,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,79894.72,2011
+CHE,Switzerland,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,80616.94,2012
+CHE,Switzerland,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,80753.38,2013
+CHE,Switzerland,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,79838.18,2014
+CHE,Switzerland,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,80969.45,2015
+CHE,Switzerland,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,80243.41,2016
+CHE,Switzerland,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,80021.78,2017
+CHE,Switzerland,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,79647.76,2018
+CHE,Switzerland,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,79813.02,2019
+CHE,Switzerland,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,78445.04,2020
+CHE,Switzerland,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,80985.64,2021
+CHE,Switzerland,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,82109.48,2022
+CHE,Switzerland,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,57311.66,1990
+CHE,Switzerland,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,56136.94,1991
+CHE,Switzerland,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,55321.60,1992
+CHE,Switzerland,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,54999.99,1993
+CHE,Switzerland,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,54802.43,1994
+CHE,Switzerland,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,55164.00,1995
+CHE,Switzerland,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,55313.53,1996
+CHE,Switzerland,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,57352.88,1997
+CHE,Switzerland,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,59154.46,1998
+CHE,Switzerland,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,60288.43,1999
+CHE,Switzerland,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,62899.70,2000
+CHE,Switzerland,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,61916.15,2001
+CHE,Switzerland,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,60664.95,2002
+CHE,Switzerland,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,62514.86,2003
+CHE,Switzerland,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,63532.99,2004
+CHE,Switzerland,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,66132.26,2005
+CHE,Switzerland,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,67796.79,2006
+CHE,Switzerland,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,65454.43,2007
+CHE,Switzerland,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,61836.74,2008
+CHE,Switzerland,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,64776.16,2009
+CHE,Switzerland,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,68652.05,2010
+CHE,Switzerland,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,66074.16,2011
+CHE,Switzerland,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,66882.20,2012
+CHE,Switzerland,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,67248.50,2013
+CHE,Switzerland,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,66835.76,2014
+CHE,Switzerland,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,67919.93,2015
+CHE,Switzerland,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,67496.49,2016
+CHE,Switzerland,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,67250.54,2017
+CHE,Switzerland,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,67150.70,2018
+CHE,Switzerland,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,67530.74,2019
+CHE,Switzerland,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,66266.63,2020
+CHE,Switzerland,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,68550.38,2021
+CHE,Switzerland,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,69432.79,2022
+CHE,Switzerland,hdi_f,HDI female,GDI,Gender Development Index,0.82,1990
+CHE,Switzerland,hdi_f,HDI female,GDI,Gender Development Index,0.82,1991
+CHE,Switzerland,hdi_f,HDI female,GDI,Gender Development Index,0.83,1992
+CHE,Switzerland,hdi_f,HDI female,GDI,Gender Development Index,0.83,1993
+CHE,Switzerland,hdi_f,HDI female,GDI,Gender Development Index,0.83,1994
+CHE,Switzerland,hdi_f,HDI female,GDI,Gender Development Index,0.83,1995
+CHE,Switzerland,hdi_f,HDI female,GDI,Gender Development Index,0.84,1996
+CHE,Switzerland,hdi_f,HDI female,GDI,Gender Development Index,0.84,1997
+CHE,Switzerland,hdi_f,HDI female,GDI,Gender Development Index,0.85,1998
+CHE,Switzerland,hdi_f,HDI female,GDI,Gender Development Index,0.85,1999
+CHE,Switzerland,hdi_f,HDI female,GDI,Gender Development Index,0.86,2000
+CHE,Switzerland,hdi_f,HDI female,GDI,Gender Development Index,0.86,2001
+CHE,Switzerland,hdi_f,HDI female,GDI,Gender Development Index,0.86,2002
+CHE,Switzerland,hdi_f,HDI female,GDI,Gender Development Index,0.87,2003
+CHE,Switzerland,hdi_f,HDI female,GDI,Gender Development Index,0.87,2004
+CHE,Switzerland,hdi_f,HDI female,GDI,Gender Development Index,0.88,2005
+CHE,Switzerland,hdi_f,HDI female,GDI,Gender Development Index,0.89,2006
+CHE,Switzerland,hdi_f,HDI female,GDI,Gender Development Index,0.90,2007
+CHE,Switzerland,hdi_f,HDI female,GDI,Gender Development Index,0.90,2008
+CHE,Switzerland,hdi_f,HDI female,GDI,Gender Development Index,0.91,2009
+CHE,Switzerland,hdi_f,HDI female,GDI,Gender Development Index,0.92,2010
+CHE,Switzerland,hdi_f,HDI female,GDI,Gender Development Index,0.92,2011
+CHE,Switzerland,hdi_f,HDI female,GDI,Gender Development Index,0.92,2012
+CHE,Switzerland,hdi_f,HDI female,GDI,Gender Development Index,0.93,2013
+CHE,Switzerland,hdi_f,HDI female,GDI,Gender Development Index,0.93,2014
+CHE,Switzerland,hdi_f,HDI female,GDI,Gender Development Index,0.93,2015
+CHE,Switzerland,hdi_f,HDI female,GDI,Gender Development Index,0.93,2016
+CHE,Switzerland,hdi_f,HDI female,GDI,Gender Development Index,0.94,2017
+CHE,Switzerland,hdi_f,HDI female,GDI,Gender Development Index,0.94,2018
+CHE,Switzerland,hdi_f,HDI female,GDI,Gender Development Index,0.94,2019
+CHE,Switzerland,hdi_f,HDI female,GDI,Gender Development Index,0.94,2020
+CHE,Switzerland,hdi_f,HDI female,GDI,Gender Development Index,0.95,2021
+CHE,Switzerland,hdi_f,HDI female,GDI,Gender Development Index,0.95,2022
+CHE,Switzerland,hdi_m,HDI male,GDI,Gender Development Index,0.87,1990
+CHE,Switzerland,hdi_m,HDI male,GDI,Gender Development Index,0.88,1991
+CHE,Switzerland,hdi_m,HDI male,GDI,Gender Development Index,0.88,1992
+CHE,Switzerland,hdi_m,HDI male,GDI,Gender Development Index,0.89,1993
+CHE,Switzerland,hdi_m,HDI male,GDI,Gender Development Index,0.89,1994
+CHE,Switzerland,hdi_m,HDI male,GDI,Gender Development Index,0.89,1995
+CHE,Switzerland,hdi_m,HDI male,GDI,Gender Development Index,0.89,1996
+CHE,Switzerland,hdi_m,HDI male,GDI,Gender Development Index,0.90,1997
+CHE,Switzerland,hdi_m,HDI male,GDI,Gender Development Index,0.90,1998
+CHE,Switzerland,hdi_m,HDI male,GDI,Gender Development Index,0.90,1999
+CHE,Switzerland,hdi_m,HDI male,GDI,Gender Development Index,0.90,2000
+CHE,Switzerland,hdi_m,HDI male,GDI,Gender Development Index,0.91,2001
+CHE,Switzerland,hdi_m,HDI male,GDI,Gender Development Index,0.91,2002
+CHE,Switzerland,hdi_m,HDI male,GDI,Gender Development Index,0.91,2003
+CHE,Switzerland,hdi_m,HDI male,GDI,Gender Development Index,0.92,2004
+CHE,Switzerland,hdi_m,HDI male,GDI,Gender Development Index,0.92,2005
+CHE,Switzerland,hdi_m,HDI male,GDI,Gender Development Index,0.93,2006
+CHE,Switzerland,hdi_m,HDI male,GDI,Gender Development Index,0.94,2007
+CHE,Switzerland,hdi_m,HDI male,GDI,Gender Development Index,0.94,2008
+CHE,Switzerland,hdi_m,HDI male,GDI,Gender Development Index,0.95,2009
+CHE,Switzerland,hdi_m,HDI male,GDI,Gender Development Index,0.95,2010
+CHE,Switzerland,hdi_m,HDI male,GDI,Gender Development Index,0.96,2011
+CHE,Switzerland,hdi_m,HDI male,GDI,Gender Development Index,0.96,2012
+CHE,Switzerland,hdi_m,HDI male,GDI,Gender Development Index,0.96,2013
+CHE,Switzerland,hdi_m,HDI male,GDI,Gender Development Index,0.97,2014
+CHE,Switzerland,hdi_m,HDI male,GDI,Gender Development Index,0.96,2015
+CHE,Switzerland,hdi_m,HDI male,GDI,Gender Development Index,0.97,2016
+CHE,Switzerland,hdi_m,HDI male,GDI,Gender Development Index,0.97,2017
+CHE,Switzerland,hdi_m,HDI male,GDI,Gender Development Index,0.97,2018
+CHE,Switzerland,hdi_m,HDI male,GDI,Gender Development Index,0.97,2019
+CHE,Switzerland,hdi_m,HDI male,GDI,Gender Development Index,0.97,2020
+CHE,Switzerland,hdi_m,HDI male,GDI,Gender Development Index,0.98,2021
+CHE,Switzerland,hdi_m,HDI male,GDI,Gender Development Index,0.98,2022
+CHE,Switzerland,hdi_rank,HDI Rank,HDI,Human Development Index,1.00,2022
+CHE,Switzerland,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,2.35,2010
+CHE,Switzerland,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,2.16,2011
+CHE,Switzerland,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,2.15,2012
+CHE,Switzerland,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,2.01,2013
+CHE,Switzerland,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,2.27,2014
+CHE,Switzerland,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,2.03,2015
+CHE,Switzerland,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,1.93,2016
+CHE,Switzerland,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,1.91,2017
+CHE,Switzerland,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,1.83,2018
+CHE,Switzerland,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,1.92,2019
+CHE,Switzerland,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,2.02,2020
+CHE,Switzerland,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,2.01,2021
+CHE,Switzerland,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,2.01,2022
+CHE,Switzerland,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,16.80,2010
+CHE,Switzerland,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,16.68,2011
+CHE,Switzerland,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,15.68,2012
+CHE,Switzerland,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,15.43,2013
+CHE,Switzerland,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,16.24,2014
+CHE,Switzerland,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,16.50,2015
+CHE,Switzerland,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,16.46,2016
+CHE,Switzerland,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,17.15,2017
+CHE,Switzerland,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,16.93,2018
+CHE,Switzerland,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,17.20,2019
+CHE,Switzerland,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,17.96,2020
+CHE,Switzerland,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,17.67,2021
+CHE,Switzerland,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,17.67,2022
+CHE,Switzerland,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,3.68,2010
+CHE,Switzerland,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,3.69,2011
+CHE,Switzerland,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,3.58,2012
+CHE,Switzerland,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,3.67,2013
+CHE,Switzerland,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,3.66,2014
+CHE,Switzerland,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,3.68,2015
+CHE,Switzerland,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,3.34,2016
+CHE,Switzerland,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,3.41,2017
+CHE,Switzerland,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,3.33,2018
+CHE,Switzerland,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,3.22,2019
+CHE,Switzerland,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,3.44,2020
+CHE,Switzerland,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,3.10,2021
+CHE,Switzerland,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,3.03,2022
+CHE,Switzerland,le,Life Expectancy at Birth (years),HDI,Human Development Index,77.39,1990
+CHE,Switzerland,le,Life Expectancy at Birth (years),HDI,Human Development Index,77.65,1991
+CHE,Switzerland,le,Life Expectancy at Birth (years),HDI,Human Development Index,77.94,1992
+CHE,Switzerland,le,Life Expectancy at Birth (years),HDI,Human Development Index,78.23,1993
+CHE,Switzerland,le,Life Expectancy at Birth (years),HDI,Human Development Index,78.49,1994
+CHE,Switzerland,le,Life Expectancy at Birth (years),HDI,Human Development Index,78.57,1995
+CHE,Switzerland,le,Life Expectancy at Birth (years),HDI,Human Development Index,79.05,1996
+CHE,Switzerland,le,Life Expectancy at Birth (years),HDI,Human Development Index,79.23,1997
+CHE,Switzerland,le,Life Expectancy at Birth (years),HDI,Human Development Index,79.48,1998
+CHE,Switzerland,le,Life Expectancy at Birth (years),HDI,Human Development Index,79.72,1999
+CHE,Switzerland,le,Life Expectancy at Birth (years),HDI,Human Development Index,79.83,2000
+CHE,Switzerland,le,Life Expectancy at Birth (years),HDI,Human Development Index,80.25,2001
+CHE,Switzerland,le,Life Expectancy at Birth (years),HDI,Human Development Index,80.44,2002
+CHE,Switzerland,le,Life Expectancy at Birth (years),HDI,Human Development Index,80.53,2003
+CHE,Switzerland,le,Life Expectancy at Birth (years),HDI,Human Development Index,81.05,2004
+CHE,Switzerland,le,Life Expectancy at Birth (years),HDI,Human Development Index,81.23,2005
+CHE,Switzerland,le,Life Expectancy at Birth (years),HDI,Human Development Index,81.55,2006
+CHE,Switzerland,le,Life Expectancy at Birth (years),HDI,Human Development Index,81.70,2007
+CHE,Switzerland,le,Life Expectancy at Birth (years),HDI,Human Development Index,81.97,2008
+CHE,Switzerland,le,Life Expectancy at Birth (years),HDI,Human Development Index,81.99,2009
+CHE,Switzerland,le,Life Expectancy at Birth (years),HDI,Human Development Index,82.28,2010
+CHE,Switzerland,le,Life Expectancy at Birth (years),HDI,Human Development Index,82.57,2011
+CHE,Switzerland,le,Life Expectancy at Birth (years),HDI,Human Development Index,82.62,2012
+CHE,Switzerland,le,Life Expectancy at Birth (years),HDI,Human Development Index,82.69,2013
+CHE,Switzerland,le,Life Expectancy at Birth (years),HDI,Human Development Index,83.09,2014
+CHE,Switzerland,le,Life Expectancy at Birth (years),HDI,Human Development Index,82.85,2015
+CHE,Switzerland,le,Life Expectancy at Birth (years),HDI,Human Development Index,83.45,2016
+CHE,Switzerland,le,Life Expectancy at Birth (years),HDI,Human Development Index,83.41,2017
+CHE,Switzerland,le,Life Expectancy at Birth (years),HDI,Human Development Index,83.56,2018
+CHE,Switzerland,le,Life Expectancy at Birth (years),HDI,Human Development Index,83.78,2019
+CHE,Switzerland,le,Life Expectancy at Birth (years),HDI,Human Development Index,83.07,2020
+CHE,Switzerland,le,Life Expectancy at Birth (years),HDI,Human Development Index,83.99,2021
+CHE,Switzerland,le,Life Expectancy at Birth (years),HDI,Human Development Index,84.26,2022
+CHE,Switzerland,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,80.71,1990
+CHE,Switzerland,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,81.10,1991
+CHE,Switzerland,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,81.33,1992
+CHE,Switzerland,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,81.42,1993
+CHE,Switzerland,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,81.70,1994
+CHE,Switzerland,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,81.68,1995
+CHE,Switzerland,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,81.98,1996
+CHE,Switzerland,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,82.03,1997
+CHE,Switzerland,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,82.46,1998
+CHE,Switzerland,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,82.47,1999
+CHE,Switzerland,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,82.56,2000
+CHE,Switzerland,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,82.95,2001
+CHE,Switzerland,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,82.95,2002
+CHE,Switzerland,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,82.98,2003
+CHE,Switzerland,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,83.47,2004
+CHE,Switzerland,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,83.70,2005
+CHE,Switzerland,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,83.84,2006
+CHE,Switzerland,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,83.95,2007
+CHE,Switzerland,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,84.17,2008
+CHE,Switzerland,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,84.18,2009
+CHE,Switzerland,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,84.36,2010
+CHE,Switzerland,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,84.68,2011
+CHE,Switzerland,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,84.61,2012
+CHE,Switzerland,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,84.72,2013
+CHE,Switzerland,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,85.10,2014
+CHE,Switzerland,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,84.88,2015
+CHE,Switzerland,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,85.21,2016
+CHE,Switzerland,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,85.35,2017
+CHE,Switzerland,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,85.37,2018
+CHE,Switzerland,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,85.56,2019
+CHE,Switzerland,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,85.08,2020
+CHE,Switzerland,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,85.90,2021
+CHE,Switzerland,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,85.93,2022
+CHE,Switzerland,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,73.96,1990
+CHE,Switzerland,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,74.11,1991
+CHE,Switzerland,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,74.45,1992
+CHE,Switzerland,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,74.90,1993
+CHE,Switzerland,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,75.14,1994
+CHE,Switzerland,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,75.29,1995
+CHE,Switzerland,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,75.93,1996
+CHE,Switzerland,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,76.24,1997
+CHE,Switzerland,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,76.31,1998
+CHE,Switzerland,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,76.78,1999
+CHE,Switzerland,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,76.92,2000
+CHE,Switzerland,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,77.35,2001
+CHE,Switzerland,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,77.73,2002
+CHE,Switzerland,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,77.89,2003
+CHE,Switzerland,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,78.43,2004
+CHE,Switzerland,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,78.58,2005
+CHE,Switzerland,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,79.03,2006
+CHE,Switzerland,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,79.25,2007
+CHE,Switzerland,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,79.57,2008
+CHE,Switzerland,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,79.62,2009
+CHE,Switzerland,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,80.02,2010
+CHE,Switzerland,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,80.29,2011
+CHE,Switzerland,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,80.46,2012
+CHE,Switzerland,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,80.51,2013
+CHE,Switzerland,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,80.92,2014
+CHE,Switzerland,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,80.70,2015
+CHE,Switzerland,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,81.53,2016
+CHE,Switzerland,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,81.37,2017
+CHE,Switzerland,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,81.64,2018
+CHE,Switzerland,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,81.90,2019
+CHE,Switzerland,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,81.00,2020
+CHE,Switzerland,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,82.00,2021
+CHE,Switzerland,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,82.48,2022
+CHE,Switzerland,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,49.33,1990
+CHE,Switzerland,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,51.98,1991
+CHE,Switzerland,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,52.24,1992
+CHE,Switzerland,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,52.88,1993
+CHE,Switzerland,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,52.18,1994
+CHE,Switzerland,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,52.15,1995
+CHE,Switzerland,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,56.95,1996
+CHE,Switzerland,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,56.92,1997
+CHE,Switzerland,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,58.15,1998
+CHE,Switzerland,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,58.16,1999
+CHE,Switzerland,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,57.63,2000
+CHE,Switzerland,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,58.83,2001
+CHE,Switzerland,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,59.30,2002
+CHE,Switzerland,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,59.46,2003
+CHE,Switzerland,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,59.11,2004
+CHE,Switzerland,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,59.34,2005
+CHE,Switzerland,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,59.76,2006
+CHE,Switzerland,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,59.94,2007
+CHE,Switzerland,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,61.30,2008
+CHE,Switzerland,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,61.56,2009
+CHE,Switzerland,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,59.98,2010
+CHE,Switzerland,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,60.54,2011
+CHE,Switzerland,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,60.84,2012
+CHE,Switzerland,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,61.14,2013
+CHE,Switzerland,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,61.90,2014
+CHE,Switzerland,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,62.28,2015
+CHE,Switzerland,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,62.84,2016
+CHE,Switzerland,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,62.61,2017
+CHE,Switzerland,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,62.91,2018
+CHE,Switzerland,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,62.98,2019
+CHE,Switzerland,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,62.51,2020
+CHE,Switzerland,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,62.23,2021
+CHE,Switzerland,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,61.49,2022
+CHE,Switzerland,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,79.26,1990
+CHE,Switzerland,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,78.65,1991
+CHE,Switzerland,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,78.11,1992
+CHE,Switzerland,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,78.09,1993
+CHE,Switzerland,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,76.90,1994
+CHE,Switzerland,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,77.03,1995
+CHE,Switzerland,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,78.79,1996
+CHE,Switzerland,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,78.55,1997
+CHE,Switzerland,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,78.49,1998
+CHE,Switzerland,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,78.11,1999
+CHE,Switzerland,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,77.77,2000
+CHE,Switzerland,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,77.40,2001
+CHE,Switzerland,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,76.71,2002
+CHE,Switzerland,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,76.79,2003
+CHE,Switzerland,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,75.97,2004
+CHE,Switzerland,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,75.10,2005
+CHE,Switzerland,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,75.41,2006
+CHE,Switzerland,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,75.77,2007
+CHE,Switzerland,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,75.46,2008
+CHE,Switzerland,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,75.24,2009
+CHE,Switzerland,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,74.35,2010
+CHE,Switzerland,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,74.69,2011
+CHE,Switzerland,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,74.50,2012
+CHE,Switzerland,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,74.19,2013
+CHE,Switzerland,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,74.14,2014
+CHE,Switzerland,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,74.22,2015
+CHE,Switzerland,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,74.50,2016
+CHE,Switzerland,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,74.47,2017
+CHE,Switzerland,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,74.24,2018
+CHE,Switzerland,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,73.65,2019
+CHE,Switzerland,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,73.39,2020
+CHE,Switzerland,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,72.68,2021
+CHE,Switzerland,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,71.94,2022
+CHE,Switzerland,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,7.77,2010
+CHE,Switzerland,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,7.77,2011
+CHE,Switzerland,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,7.32,2012
+CHE,Switzerland,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,7.18,2013
+CHE,Switzerland,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,7.57,2014
+CHE,Switzerland,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,7.67,2015
+CHE,Switzerland,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,7.44,2016
+CHE,Switzerland,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,7.75,2017
+CHE,Switzerland,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,7.63,2018
+CHE,Switzerland,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,7.71,2019
+CHE,Switzerland,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,8.15,2020
+CHE,Switzerland,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,7.88,2021
+CHE,Switzerland,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,7.86,2022
+CHE,Switzerland,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,40.71,1990
+CHE,Switzerland,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,32.06,1991
+CHE,Switzerland,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,35.82,1992
+CHE,Switzerland,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,31.98,1993
+CHE,Switzerland,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,33.92,1994
+CHE,Switzerland,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,37.77,1995
+CHE,Switzerland,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,36.22,1996
+CHE,Switzerland,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,33.06,1997
+CHE,Switzerland,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,34.27,1998
+CHE,Switzerland,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,37.93,1999
+CHE,Switzerland,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,34.17,2000
+CHE,Switzerland,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,32.73,2001
+CHE,Switzerland,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,39.19,2002
+CHE,Switzerland,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,32.10,2003
+CHE,Switzerland,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,30.29,2004
+CHE,Switzerland,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,34.82,2005
+CHE,Switzerland,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,34.61,2006
+CHE,Switzerland,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,33.66,2007
+CHE,Switzerland,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,33.99,2008
+CHE,Switzerland,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,35.08,2009
+CHE,Switzerland,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,35.00,2010
+CHE,Switzerland,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,38.57,2011
+CHE,Switzerland,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,35.74,2012
+CHE,Switzerland,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,36.91,2013
+CHE,Switzerland,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,34.95,2014
+CHE,Switzerland,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,32.44,2015
+CHE,Switzerland,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,34.02,2016
+CHE,Switzerland,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,33.60,2017
+CHE,Switzerland,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,32.98,2018
+CHE,Switzerland,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,31.44,2019
+CHE,Switzerland,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,34.90,2020
+CHE,Switzerland,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,34.81,2021
+CHE,Switzerland,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,33.59,2022
+CHE,Switzerland,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,10.50,1990
+CHE,Switzerland,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,10.08,1991
+CHE,Switzerland,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,9.86,1992
+CHE,Switzerland,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,10.39,1993
+CHE,Switzerland,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,10.61,1994
+CHE,Switzerland,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,10.80,1995
+CHE,Switzerland,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,9.57,1996
+CHE,Switzerland,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,9.77,1997
+CHE,Switzerland,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,7.86,1998
+CHE,Switzerland,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,8.11,1999
+CHE,Switzerland,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,7.90,2000
+CHE,Switzerland,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,8.55,2001
+CHE,Switzerland,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,9.19,2002
+CHE,Switzerland,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,8.87,2003
+CHE,Switzerland,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,8.94,2004
+CHE,Switzerland,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,9.39,2005
+CHE,Switzerland,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,8.91,2006
+CHE,Switzerland,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,8.37,2007
+CHE,Switzerland,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,8.24,2008
+CHE,Switzerland,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,7.82,2009
+CHE,Switzerland,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,8.12,2010
+CHE,Switzerland,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,8.11,2011
+CHE,Switzerland,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,7.39,2012
+CHE,Switzerland,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,7.24,2013
+CHE,Switzerland,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,6.70,2014
+CHE,Switzerland,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,6.46,2015
+CHE,Switzerland,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,8.06,2016
+CHE,Switzerland,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,6.14,2017
+CHE,Switzerland,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,7.44,2018
+CHE,Switzerland,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,7.11,2019
+CHE,Switzerland,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,7.38,2020
+CHE,Switzerland,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,7.38,2021
+CHE,Switzerland,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,7.38,2022
+CHE,Switzerland,mys,Mean Years of Schooling (years),HDI,Human Development Index,10.53,1990
+CHE,Switzerland,mys,Mean Years of Schooling (years),HDI,Human Development Index,10.52,1991
+CHE,Switzerland,mys,Mean Years of Schooling (years),HDI,Human Development Index,10.51,1992
+CHE,Switzerland,mys,Mean Years of Schooling (years),HDI,Human Development Index,10.50,1993
+CHE,Switzerland,mys,Mean Years of Schooling (years),HDI,Human Development Index,10.49,1994
+CHE,Switzerland,mys,Mean Years of Schooling (years),HDI,Human Development Index,10.48,1995
+CHE,Switzerland,mys,Mean Years of Schooling (years),HDI,Human Development Index,10.51,1996
+CHE,Switzerland,mys,Mean Years of Schooling (years),HDI,Human Development Index,10.54,1997
+CHE,Switzerland,mys,Mean Years of Schooling (years),HDI,Human Development Index,10.58,1998
+CHE,Switzerland,mys,Mean Years of Schooling (years),HDI,Human Development Index,10.61,1999
+CHE,Switzerland,mys,Mean Years of Schooling (years),HDI,Human Development Index,10.64,2000
+CHE,Switzerland,mys,Mean Years of Schooling (years),HDI,Human Development Index,10.75,2001
+CHE,Switzerland,mys,Mean Years of Schooling (years),HDI,Human Development Index,10.86,2002
+CHE,Switzerland,mys,Mean Years of Schooling (years),HDI,Human Development Index,10.98,2003
+CHE,Switzerland,mys,Mean Years of Schooling (years),HDI,Human Development Index,11.09,2004
+CHE,Switzerland,mys,Mean Years of Schooling (years),HDI,Human Development Index,11.21,2005
+CHE,Switzerland,mys,Mean Years of Schooling (years),HDI,Human Development Index,11.74,2006
+CHE,Switzerland,mys,Mean Years of Schooling (years),HDI,Human Development Index,12.27,2007
+CHE,Switzerland,mys,Mean Years of Schooling (years),HDI,Human Development Index,12.81,2008
+CHE,Switzerland,mys,Mean Years of Schooling (years),HDI,Human Development Index,13.34,2009
+CHE,Switzerland,mys,Mean Years of Schooling (years),HDI,Human Development Index,13.32,2010
+CHE,Switzerland,mys,Mean Years of Schooling (years),HDI,Human Development Index,13.33,2011
+CHE,Switzerland,mys,Mean Years of Schooling (years),HDI,Human Development Index,13.41,2012
+CHE,Switzerland,mys,Mean Years of Schooling (years),HDI,Human Development Index,13.53,2013
+CHE,Switzerland,mys,Mean Years of Schooling (years),HDI,Human Development Index,13.64,2014
+CHE,Switzerland,mys,Mean Years of Schooling (years),HDI,Human Development Index,13.71,2015
+CHE,Switzerland,mys,Mean Years of Schooling (years),HDI,Human Development Index,13.67,2016
+CHE,Switzerland,mys,Mean Years of Schooling (years),HDI,Human Development Index,13.73,2017
+CHE,Switzerland,mys,Mean Years of Schooling (years),HDI,Human Development Index,13.80,2018
+CHE,Switzerland,mys,Mean Years of Schooling (years),HDI,Human Development Index,13.86,2019
+CHE,Switzerland,mys,Mean Years of Schooling (years),HDI,Human Development Index,13.90,2020
+CHE,Switzerland,mys,Mean Years of Schooling (years),HDI,Human Development Index,13.90,2021
+CHE,Switzerland,mys,Mean Years of Schooling (years),HDI,Human Development Index,13.90,2022
+CHE,Switzerland,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,9.76,1990
+CHE,Switzerland,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,9.74,1991
+CHE,Switzerland,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,9.73,1992
+CHE,Switzerland,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,9.71,1993
+CHE,Switzerland,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,9.70,1994
+CHE,Switzerland,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,9.68,1995
+CHE,Switzerland,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,9.68,1996
+CHE,Switzerland,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,9.68,1997
+CHE,Switzerland,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,9.67,1998
+CHE,Switzerland,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,9.67,1999
+CHE,Switzerland,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,9.66,2000
+CHE,Switzerland,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,9.84,2001
+CHE,Switzerland,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,10.02,2002
+CHE,Switzerland,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,10.20,2003
+CHE,Switzerland,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,10.38,2004
+CHE,Switzerland,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,10.56,2005
+CHE,Switzerland,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,11.11,2006
+CHE,Switzerland,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,11.67,2007
+CHE,Switzerland,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,12.22,2008
+CHE,Switzerland,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,12.78,2009
+CHE,Switzerland,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,12.81,2010
+CHE,Switzerland,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,12.82,2011
+CHE,Switzerland,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,12.91,2012
+CHE,Switzerland,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,13.04,2013
+CHE,Switzerland,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,13.16,2014
+CHE,Switzerland,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,13.27,2015
+CHE,Switzerland,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,13.20,2016
+CHE,Switzerland,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,13.30,2017
+CHE,Switzerland,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,13.39,2018
+CHE,Switzerland,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,13.48,2019
+CHE,Switzerland,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,13.55,2020
+CHE,Switzerland,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,13.55,2021
+CHE,Switzerland,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,13.55,2022
+CHE,Switzerland,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,11.36,1990
+CHE,Switzerland,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,11.35,1991
+CHE,Switzerland,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,11.35,1992
+CHE,Switzerland,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,11.35,1993
+CHE,Switzerland,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,11.35,1994
+CHE,Switzerland,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,11.35,1995
+CHE,Switzerland,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,11.34,1996
+CHE,Switzerland,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,11.34,1997
+CHE,Switzerland,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,11.33,1998
+CHE,Switzerland,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,11.33,1999
+CHE,Switzerland,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,11.33,2000
+CHE,Switzerland,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,11.44,2001
+CHE,Switzerland,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,11.56,2002
+CHE,Switzerland,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,11.68,2003
+CHE,Switzerland,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,11.80,2004
+CHE,Switzerland,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,11.92,2005
+CHE,Switzerland,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,12.42,2006
+CHE,Switzerland,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,12.93,2007
+CHE,Switzerland,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,13.43,2008
+CHE,Switzerland,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,13.94,2009
+CHE,Switzerland,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,13.87,2010
+CHE,Switzerland,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,13.86,2011
+CHE,Switzerland,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,13.94,2012
+CHE,Switzerland,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,14.05,2013
+CHE,Switzerland,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,14.15,2014
+CHE,Switzerland,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,14.18,2015
+CHE,Switzerland,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,14.15,2016
+CHE,Switzerland,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,14.19,2017
+CHE,Switzerland,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,14.22,2018
+CHE,Switzerland,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,14.25,2019
+CHE,Switzerland,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,14.27,2020
+CHE,Switzerland,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,14.27,2021
+CHE,Switzerland,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,14.27,2022
+CHE,Switzerland,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,20.33,1990
+CHE,Switzerland,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,20.33,1991
+CHE,Switzerland,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,20.33,1992
+CHE,Switzerland,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,20.33,1993
+CHE,Switzerland,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,20.33,1994
+CHE,Switzerland,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,20.33,1995
+CHE,Switzerland,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,20.33,1996
+CHE,Switzerland,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,20.33,1997
+CHE,Switzerland,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,20.33,1998
+CHE,Switzerland,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,20.33,1999
+CHE,Switzerland,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,22.36,2000
+CHE,Switzerland,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,22.36,2001
+CHE,Switzerland,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,22.36,2002
+CHE,Switzerland,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,24.79,2003
+CHE,Switzerland,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,24.80,2004
+CHE,Switzerland,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,24.80,2005
+CHE,Switzerland,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,24.80,2006
+CHE,Switzerland,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,27.24,2007
+CHE,Switzerland,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,27.24,2008
+CHE,Switzerland,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,27.64,2009
+CHE,Switzerland,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,27.64,2010
+CHE,Switzerland,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,26.83,2011
+CHE,Switzerland,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,27.24,2012
+CHE,Switzerland,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,28.86,2013
+CHE,Switzerland,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,28.86,2014
+CHE,Switzerland,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,28.86,2015
+CHE,Switzerland,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,28.86,2016
+CHE,Switzerland,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,29.27,2017
+CHE,Switzerland,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,29.27,2018
+CHE,Switzerland,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,38.62,2019
+CHE,Switzerland,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,38.62,2020
+CHE,Switzerland,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,39.84,2021
+CHE,Switzerland,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,39.02,2022
+CHE,Switzerland,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,79.68,1990
+CHE,Switzerland,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,79.68,1991
+CHE,Switzerland,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,79.68,1992
+CHE,Switzerland,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,79.68,1993
+CHE,Switzerland,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,79.68,1994
+CHE,Switzerland,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,79.68,1995
+CHE,Switzerland,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,79.68,1996
+CHE,Switzerland,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,79.68,1997
+CHE,Switzerland,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,79.68,1998
+CHE,Switzerland,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,79.68,1999
+CHE,Switzerland,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,77.64,2000
+CHE,Switzerland,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,77.64,2001
+CHE,Switzerland,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,77.64,2002
+CHE,Switzerland,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,75.21,2003
+CHE,Switzerland,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,75.20,2004
+CHE,Switzerland,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,75.20,2005
+CHE,Switzerland,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,75.20,2006
+CHE,Switzerland,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,72.76,2007
+CHE,Switzerland,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,72.76,2008
+CHE,Switzerland,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,72.36,2009
+CHE,Switzerland,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,72.36,2010
+CHE,Switzerland,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,73.17,2011
+CHE,Switzerland,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,72.76,2012
+CHE,Switzerland,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,71.14,2013
+CHE,Switzerland,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,71.14,2014
+CHE,Switzerland,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,71.14,2015
+CHE,Switzerland,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,71.14,2016
+CHE,Switzerland,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,70.73,2017
+CHE,Switzerland,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,70.73,2018
+CHE,Switzerland,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,61.38,2019
+CHE,Switzerland,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,61.38,2020
+CHE,Switzerland,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,60.16,2021
+CHE,Switzerland,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,60.98,2022
+CHE,Switzerland,rankdiff_hdi_phdi,Difference from HDI rank,PHDI,Planetary pressures–adjusted Human Development Index,-6.00,2022
+CHE,Switzerland,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,61.03,1990
+CHE,Switzerland,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,61.06,1991
+CHE,Switzerland,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,61.09,1992
+CHE,Switzerland,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,61.12,1993
+CHE,Switzerland,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,61.14,1994
+CHE,Switzerland,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,61.17,1995
+CHE,Switzerland,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,61.27,1996
+CHE,Switzerland,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,61.36,1997
+CHE,Switzerland,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,61.46,1998
+CHE,Switzerland,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,61.55,1999
+CHE,Switzerland,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,61.65,2000
+CHE,Switzerland,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,63.59,2001
+CHE,Switzerland,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,65.53,2002
+CHE,Switzerland,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,67.47,2003
+CHE,Switzerland,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,69.40,2004
+CHE,Switzerland,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,71.34,2005
+CHE,Switzerland,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,77.31,2006
+CHE,Switzerland,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,83.28,2007
+CHE,Switzerland,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,89.25,2008
+CHE,Switzerland,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,95.22,2009
+CHE,Switzerland,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,95.32,2010
+CHE,Switzerland,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,95.38,2011
+CHE,Switzerland,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,95.57,2012
+CHE,Switzerland,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,96.01,2013
+CHE,Switzerland,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,96.46,2014
+CHE,Switzerland,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,96.74,2015
+CHE,Switzerland,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,96.44,2016
+CHE,Switzerland,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,96.55,2017
+CHE,Switzerland,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,96.67,2018
+CHE,Switzerland,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,96.86,2019
+CHE,Switzerland,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,96.94,2020
+CHE,Switzerland,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,96.94,2021
+CHE,Switzerland,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,96.94,2022
+CHE,Switzerland,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,73.36,1990
+CHE,Switzerland,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,73.52,1991
+CHE,Switzerland,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,73.69,1992
+CHE,Switzerland,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,73.85,1993
+CHE,Switzerland,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,74.01,1994
+CHE,Switzerland,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,74.18,1995
+CHE,Switzerland,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,74.17,1996
+CHE,Switzerland,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,74.16,1997
+CHE,Switzerland,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,74.15,1998
+CHE,Switzerland,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,74.14,1999
+CHE,Switzerland,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,74.13,2000
+CHE,Switzerland,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,75.08,2001
+CHE,Switzerland,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,76.03,2002
+CHE,Switzerland,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,76.98,2003
+CHE,Switzerland,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,77.92,2004
+CHE,Switzerland,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,78.87,2005
+CHE,Switzerland,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,83.32,2006
+CHE,Switzerland,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,87.77,2007
+CHE,Switzerland,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,92.22,2008
+CHE,Switzerland,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,96.67,2009
+CHE,Switzerland,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,96.65,2010
+CHE,Switzerland,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,96.78,2011
+CHE,Switzerland,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,97.03,2012
+CHE,Switzerland,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,97.32,2013
+CHE,Switzerland,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,97.61,2014
+CHE,Switzerland,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,97.46,2015
+CHE,Switzerland,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,97.36,2016
+CHE,Switzerland,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,97.44,2017
+CHE,Switzerland,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,97.52,2018
+CHE,Switzerland,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,97.53,2019
+CHE,Switzerland,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,97.52,2020
+CHE,Switzerland,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,97.52,2021
+CHE,Switzerland,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,97.52,2022
